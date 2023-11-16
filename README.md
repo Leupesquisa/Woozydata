@@ -1,2 +1,2 @@
-# Gest-o-de-Stock-
+# Gestao-de-Stock-
 Trabalho de Programação IV

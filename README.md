@@ -126,9 +126,9 @@ System.out.println("Detected outliers: " + outliers);
 
 ## 🔧 Requirements
 
-Java 17+ 
-Apache Commons Math 3.6.1
-MongoDB Driver (opcional)
+* Java 17+ 
+* Apache Commons Math 3.6.1
+* MongoDB Driver (opcional)
 
 ## 📈 Performance
 | Operation | 10K Rows | 100K Rows | 1M Rows |
@@ -145,8 +145,8 @@ For more details, refer to the official documentation.
 
 ## 🛠️ Support
 If you encounter issues or have questions, open an issue on GitHub or contact us via email.
-Email: leu.manuel@hotmail.com
-LinkedIn: [Leu Manuel](https://www.linkedin.com/in/leu-manuel/)
+* Email: leu.manuel@hotmail.com
+* LinkedIn: [Leu Manuel](https://www.linkedin.com/in/leu-manuel/)
 
 ## 📢 Contribute!
 We welcome contributions! Check out the contribution guide.

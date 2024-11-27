@@ -35,9 +35,9 @@ Add the library to your Maven project:
 
 ```xml
 <dependency>
-    <groupId>com.leumanuel</groupId>
+    <groupId>io.github.leupesquisa</groupId>
     <artifactId>woozydata</artifactId>
-    <version>1.0</version>
+    <version>1.0.0</version>
 </dependency>
 ```
 ## 🌟 Examples of Usage

@@ -1,6 +1,6 @@
 # Woozydata
 
-Woozydata is a powerful and easy-to-use data analysis library designed to simplify complex tasks like data cleaning, exporting, statistical analysis, and modeling. Perfect for data analysts and full stack developers, Woozydata provides a unified interface for working with tabular data, offering descriptive statistics, cleaning methods, advanced analysis, and support for multiple export formats.
+Woozydata is a powerful and easy-to-use Java data analysis library designed to simplify complex tasks like data cleaning, exporting, statistical analysis, and modeling. Perfect for data analysts and full stack developers, Woozydata provides a unified interface for working with tabular data, offering descriptive statistics, cleaning methods, advanced analysis, and support for multiple export formats.
 
 ## 🚀 Purpose of the Library
 

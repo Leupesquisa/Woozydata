@@ -141,7 +141,7 @@ System.out.println("Detected outliers: " + outliers);
 You can integrate Woozydata with front-end tools like React or Angular to create interactive dashboards. Additionally, export your data to Power BI or HTML files for visual reporting.
 
 ## 📖 Complete Documentation
-For more details, refer to the official documentation.
+For more details, refer to the [official documentation](https://leumanuel.vercel.app/apidocs/index.html). 
 
 ## 🛠️ Support
 If you encounter issues or have questions, open an issue on GitHub or contact us via email.

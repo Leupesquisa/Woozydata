@@ -1,3 +1,8 @@
+
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.leupesquisa/woozydata?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.leupesquisa/woozydata)  
+[![License](https://img.shields.io/github/license/leupesquisa/woozydata?color=blue)](LICENSE)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/leupesquisa/woozydata/ci.yml?branch=main)](https://github.com/leupesquisa/woozydata/actions)  
+
 # Woozydata
 
 Woozydata is a powerful and easy-to-use Java data analysis library designed to simplify complex tasks like data cleaning, exporting, statistical analysis, and modeling. Perfect for data analysts and full stack developers, Woozydata provides a unified interface for working with tabular data, offering descriptive statistics, cleaning methods, advanced analysis, and support for multiple export formats.

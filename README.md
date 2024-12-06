@@ -1,6 +1,6 @@
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.leupesquisa/woozydata?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.leupesquisa/woozydata)  
-[![License](https://img.shields.io/github/license/leupesquisa/woozydata?color=blue)](LICENSE)  
+[![License](https://img.shields.io/github/license/leupesquisa/woozydata?color=blue&cacheSeconds=3600)](LICENSE)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/leupesquisa/woozydata/ci.yml?branch=main)](https://github.com/leupesquisa/woozydata/actions)  
 
 # Woozydata
